@@ -9,3 +9,14 @@ C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\obj\Debug\KPI.Model.csprojAss
 C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\obj\Debug\KPI.Model.csproj.CopyComplete
 C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\obj\Debug\KPI.Model.dll
 C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\obj\Debug\KPI.Model.pdb
+D:\KPI1072019\KPI1072019\KPI.Model\bin\Debug\KPI.Model.dll.config
+D:\KPI1072019\KPI1072019\KPI.Model\bin\Debug\KPI.Model.dll
+D:\KPI1072019\KPI1072019\KPI.Model\bin\Debug\KPI.Model.pdb
+D:\KPI1072019\KPI1072019\KPI.Model\bin\Debug\EntityFramework.dll
+D:\KPI1072019\KPI1072019\KPI.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\KPI1072019\KPI1072019\KPI.Model\bin\Debug\EntityFramework.xml
+D:\KPI1072019\KPI1072019\KPI.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\KPI1072019\KPI1072019\KPI.Model\obj\Debug\KPI.Model.csprojAssemblyReference.cache
+D:\KPI1072019\KPI1072019\KPI.Model\obj\Debug\KPI.Model.csproj.CopyComplete
+D:\KPI1072019\KPI1072019\KPI.Model\obj\Debug\KPI.Model.dll
+D:\KPI1072019\KPI1072019\KPI.Model\obj\Debug\KPI.Model.pdb

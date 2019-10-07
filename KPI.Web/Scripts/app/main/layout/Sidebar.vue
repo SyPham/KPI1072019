@@ -10,29 +10,20 @@
           <img src="../../../../bower_components/admin-lte/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
         </div>
         <div class="pull-left info">
-          <p>Alexander Pierce</p>
+          <p>Henry Pham</p>
           <!-- Status -->
           <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
         </div>
       </div>
-
-      <!-- search form (Optional) -->
-      <form action="#" method="get" class="sidebar-form">
-        <div class="input-group">
-          <input type="text" name="q" class="form-control" placeholder="Search...">
-          <span class="input-group-btn">
-            <button type="submit" name="search" id="search-btn" class="btn btn-flat">
-              <i class="fa fa-search"></i>
-            </button>
-          </span>
-        </div>
-      </form>
-      <!-- /.search form -->
       <!-- Sidebar Menu -->
       <ul class="sidebar-menu" data-widget="tree">
         <li class="header">HEADER</li>
         <!-- Optionally, you can add icons to the links -->
-        <li class="active"><a href="#"><i class="fa fa-link"></i> <span>Link</span></a></li>
+        <router-link tag="li"
+                     active-class="active"
+                     to="/">
+          <a><i class="fa fa-link"></i> <span>Home</span></a>
+        </router-link>
         <router-link tag="li"
                      active-class="active"
                      to="/client/favourite">
@@ -50,15 +41,48 @@
           <a><i class="fa fa-link"></i> <span>Category KPILevel</span></a>
         </router-link>
         <li class="treeview">
-          <a href="#">
-            <i class="fa fa-link"></i> <span>Multilevel</span>
+          <a>
+            <i class="fa fa-link"></i> <span>Admin</span>
             <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="#">Link in level 2</a></li>
-            <li><a href="#">Link in level 2</a></li>
+            <router-link tag="li"
+                         active-class="active"
+                         to="/admin/kpi">
+              <a><i class="fa fa-link"></i> <span>KPI</span></a>
+            </router-link>
+            <router-link tag="li"
+                         active-class="active"
+                         to="/admin/kpilevel">
+              <a><i class="fa fa-link"></i> <span>KPI Level</span></a>
+            </router-link>
+            <router-link tag="li"
+                         active-class="active"
+                         to="/admin/level">
+              <a><i class="fa fa-link"></i> <span>Level</span></a>
+            </router-link>
+            <router-link tag="li"
+                         active-class="active"
+                         to="/admin/category">
+              <a><i class="fa fa-link"></i> <span>Category</span></a>
+            </router-link>
+            <router-link tag="li"
+                         active-class="active"
+                         to="/admin/account">
+              <a><i class="fa fa-link"></i> <span>Account</span></a>
+            </router-link>
+            <router-link tag="li"
+                         active-class="active"
+                         to="/admin/accountlevel">
+              <a><i class="fa fa-link"></i> <span>Account Level</span></a>
+            </router-link>
+            <router-link tag="li"
+                         active-class="active"
+                         to="/admin/categorykpilevel">
+              <a><i class="fa fa-link"></i> <span>Category KPI Level</span></a>
+            </router-link>
           </ul>
         </li>
       </ul>
