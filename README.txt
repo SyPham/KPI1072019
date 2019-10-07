@@ -1,0 +1,1 @@
+-- Vao thu muc KPI.Web bang CMD chay lenh npm install va bower install sau do chay du an
