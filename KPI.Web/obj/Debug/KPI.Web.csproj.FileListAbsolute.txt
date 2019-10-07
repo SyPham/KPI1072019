@@ -77,3 +77,6 @@ C:\Users\sy.pham\source\repos\Vue1072019\KPI.Web\obj\Debug\KPI.Web.csprojAssembl
 C:\Users\sy.pham\source\repos\Vue1072019\KPI.Web\obj\Debug\KPI.Web.csproj.CopyComplete
 C:\Users\sy.pham\source\repos\Vue1072019\KPI.Web\obj\Debug\KPI.Web.dll
 C:\Users\sy.pham\source\repos\Vue1072019\KPI.Web\obj\Debug\KPI.Web.pdb
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Web\bin\KPI.Model.dll
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Web\bin\KPI.Model.pdb
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Web\bin\KPI.Model.dll.config
