@@ -11,5 +11,5 @@ bower_components
 *.suo
 *.ntvs*
 *.njsproj
-*.sln
+# *.sln
 .vs
