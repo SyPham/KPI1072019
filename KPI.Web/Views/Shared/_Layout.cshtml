@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>@ViewBag.Title - My ASP.NET Application</title>
+  @RenderPage("_Css.cshtml")
+</head>
+<body class="hold-transition skin-purple-light sidebar-mini">
+  @RenderBody()
+  @RenderPage("_Scripts.cshtml")
+  @RenderSection("scripts", required: false)
+</body>
+</html>

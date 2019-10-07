@@ -1,0 +1,11 @@
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\bin\Debug\KPI.Model.dll.config
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\bin\Debug\KPI.Model.dll
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\bin\Debug\KPI.Model.pdb
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\bin\Debug\EntityFramework.dll
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\bin\Debug\EntityFramework.xml
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\obj\Debug\KPI.Model.csprojAssemblyReference.cache
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\obj\Debug\KPI.Model.csproj.CopyComplete
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\obj\Debug\KPI.Model.dll
+C:\Users\sy.pham\source\repos\Vue1072019\KPI.Model\obj\Debug\KPI.Model.pdb
