@@ -40,6 +40,11 @@
                      to="/client/categorykpilevel">
           <a><i class="fa fa-link"></i> <span>Category KPILevel</span></a>
         </router-link>
+        <router-link tag="li"
+                     active-class="active"
+                     to="/login">
+          <a><i class="fa fa-link"></i> <span>Login</span></a>
+        </router-link>
         <li class="treeview">
           <a>
             <i class="fa fa-link"></i> <span>Admin</span>

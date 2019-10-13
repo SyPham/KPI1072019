@@ -2,10 +2,10 @@
   <div class="wrapper">
 
     <!-- Main Header -->
-    <app-header></app-header>
+    <app-header />
 
     <!-- Left side column. contains the logo and sidebar -->
-    <app-sidebar></app-sidebar>
+    <app-sidebar />
 
     <!-- Content Wrapper. Contains page content -->
     <div class="content-wrapper">
@@ -29,7 +29,7 @@
     </div>
     <!-- /.content-wrapper -->
     <!-- Main Footer -->
-    <app-footer></app-footer>
+    <app-footer />
 
     <!-- Control Sidebar -->
     <aside class="control-sidebar control-sidebar-dark">

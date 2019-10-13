@@ -10,14 +10,15 @@ namespace KPI.Model
 {
     public class KPIDbContext : DbContext
     {
-        public KPIDbContext() : base("KPIDbContext")
+
+        public KPIDbContext() : base("name=KPIDbContext")
         {
             this.Configuration.LazyLoadingEnabled = false;
-        }
 
+        }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-           
+
         }
         public DbSet<User> Users { get; set; }
     }

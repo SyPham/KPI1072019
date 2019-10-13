@@ -31,3 +31,16 @@ E:\ToDoList\Vue\KPI1072019\KPI.Model\obj\Debug\KPI.Model.csprojAssemblyReference
 E:\ToDoList\Vue\KPI1072019\KPI.Model\obj\Debug\KPI.Model.csproj.CopyComplete
 E:\ToDoList\Vue\KPI1072019\KPI.Model\obj\Debug\KPI.Model.dll
 E:\ToDoList\Vue\KPI1072019\KPI.Model\obj\Debug\KPI.Model.pdb
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\bin\Debug\KPI.Model.dll.config
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\bin\Debug\KPI.Model.dll
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\bin\Debug\KPI.Model.pdb
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\bin\Debug\EntityFramework.dll
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\bin\Debug\EntityFramework.xml
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\obj\Debug\KPI.Model.csprojAssemblyReference.cache
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\obj\Debug\KPI.Model.csproj.CopyComplete
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\obj\Debug\KPI.Model.dll
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\obj\Debug\KPI.Model.pdb
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\obj\Debug\KPI.Model.Migrations.InitialDb.resources
+D:\0.ToDoList\Vue\KPI1072019\KPI.Model\obj\Debug\KPI.Model.csproj.GenerateResource.cache
